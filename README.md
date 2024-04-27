@@ -1,4 +1,3 @@
- <div align="left"> 
 
 <h1> Hi, I'm Anabe 👋🏼 </h1>
 <img  align="right" width="200px" style="margin-top:-50px" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif">
@@ -9,6 +8,7 @@ I'm a <strong>fullstack developer</strong> who enjoys
 <br>
 <br>
 <br>
+ <div align="center"> 
 
 | Category | Skills |
 |---|---|
@@ -16,3 +16,4 @@ I'm a <strong>fullstack developer</strong> who enjoys
 | Backend | <img src="https://skillicons.dev/icons?i=nodejs,java,spring,nest" /> |
 | Databases |  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> |
 | DevOps |  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" /> |
+</div>
