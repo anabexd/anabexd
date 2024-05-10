@@ -2,7 +2,7 @@
 <h1> Hi, I'm Anabe 👋🏼 </h1>
 <div width="150"> 
 <h4>I'm a <strong>enthusiast fullstack developer</strong> who enjoys working
-<p>on new ideas and bringing them to life through code</p></h4>
+<p>on new ideas and bringing them to life through code!</p></h4>
 <img  align="center" width="200px" style="margin-top:-50px" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif">
 </div>
 <br>
